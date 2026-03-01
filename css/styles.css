@@ -1,0 +1,58 @@
+/* Color Palette
+# - #490162 - dark purple
+# - lightskyblue
+# - #6ecb51 - green
+# - #ffb22b - orange
+# - #fc7597 - pink
+*/
+
+
+
+/* Global styles 
+------------------------------------*/
+body {
+    background: #490162;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1, h2, h3 {
+    font-family: 'Roboto', sans-serif;
+}
+p {
+    font-family: 'Google Sans', sans-serif;
+}
+
+h1 {
+    font-size: 60px;
+}
+h2 {
+    font-size: 30px;
+}
+
+/* Header & Footer 
+------------------------------------*/
+header {
+    background: lightskyblue;
+    padding-left: 1%;
+    padding-top: 0.5%;
+}
+footer {
+    background: #fc7597;
+    padding-left: 1%;
+    padding-bottom: 0.5%;
+}
+
+
+/* Work Experience
+------------------------------------*/
+.work-section {
+    background: #ffb22b; 
+    padding-left: 1%;
+}
+
+
+/* Education
+------------------------------------*/
+.education-section {
+    background: #6ecb51; 
+    padding-left: 1%;
+}
